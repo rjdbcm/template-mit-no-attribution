@@ -1,10 +1,10 @@
 # GitHub Repository Template
 
-This should serve as the skeleton for most of the repos in the OZI Project.
+This should serve as the skeleton for MIT0 licensed repos in the OZI Project.
 
 ## License
 
-Please choose an OSI-approved license.
+MIT No Attribution
 
 ## CodeQL
 
